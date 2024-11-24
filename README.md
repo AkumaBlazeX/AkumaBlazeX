@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AkumaBlazeX, a passionate student striving to automate the future of DevOps.
+- 👀 I’m interested in solving real-world problems through seamless automation and scaling systems efficiently.
+- 🌱 I’m currently learning the art of building small but impactful solutions, with plans to grow into mastering large-scale systems and workflows.
+- 💞️ I’m looking to collaborate on projects that challenge conventional DevOps approaches and push boundaries in automation.
+- 📫 How to reach me: Feel free to connect with me on [GitHub](https://github.com/AkumaBlazeX) or drop me an email at akumablazex@devmail.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I believe every problem has a script waiting to solve it — one line of code at a time.
