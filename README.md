@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sanath-kumar-pv-b4ba8b27b/?originalSubdomain=in">
-    <img src="https://img.freepik.com/premium-vector/devops-software-development-operations-infinity-symbol_115739-982.jpg?semt=ais_hybrid" alt="DevOps MasterHead" width="1000px">
+    <img src="https://img.freepik.com/premium-vector/devops-software-development-operations-infinity-symbol_115739-982.jpg?semt=ais_hybrid" alt="DevOps MasterHead" width="500px">
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Sanath Kumar</h1>
