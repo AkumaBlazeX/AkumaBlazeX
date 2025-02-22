@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sanath-kumar-pv-b4ba8b27b/?originalSubdomain=in">
-    <img src="[https://img.freepik.com/premium-vector/devops-software-development-operations-infinity-symbol_115739-982.jpg?semt=ais_hybrid](https://www.altexsoft.com/blog/what-is-data-engineering-explaining-data-pipeline-data-warehouse-and-data-engineer-role/)" alt="DevOps MasterHead" width="500px">
+    <img src="https://imgs.search.brave.com/Jnv63yb4dQoOvdDinaiwgBHqf6e2Truapzzt7yeaIT4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YWx0ZXhzb2Z0LmNv/bS9zdGF0aWMvYmxv/Zy1wb3N0LzIwMjMv/MTEvYzEzYjkwZGYt/YzIzMi00Njc2LWI3/ZGEtODAyMThhYWNm/MTkxLmpwZw" alt="DevOps MasterHead" width="500px">
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Sanath Kumar</h1>
