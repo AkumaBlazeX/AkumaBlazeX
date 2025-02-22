@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Sanath Kumar</h1>
-<h3 align="center">A passionate Devops Associate from India</h3>
+<h3 align="center">A passionate Data Engineer Associate from India</h3>
 <img alighn="right" alt="coding" width="400" src="https://devopsconclave.com/images/who2.gif">
 
 
